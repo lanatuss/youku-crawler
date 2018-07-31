@@ -1,11 +1,6 @@
 {
     "python.pythonPath": "d:\\pyenv\\versions\\youku-crawler\\Scripts\\python.exe",
-    "python.linting.pylintPath": "d:\\python\\python35\\Scripts\\pylint.exe",
     "python.autoComplete.extraPaths": [
         "D:\\pyenv\\versions\\youku-crawler\\lib\\site-packages"
-    ],
-    "python.formatting.autopep8Path": "D:\\Python\\Python35\\Scripts\\autopep8.exe",
-    "python.linting.pylintArgs": [
-        "--rcfile=pylint.conf"
     ]
 }
